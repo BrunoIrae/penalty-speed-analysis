@@ -1,5 +1,15 @@
 # ⚽ Penalty Speed Analysis (Visão Computacional)
 
+## 🎓 Tema do Projeto
+**Tema 4 - Análise de esportes**
+
+---
+
+## 👥 Integrantes do Grupo
+- **Bruno Iraê dos Reis**
+- **Leonardo Henrique Caturyty da Silva Cavalcante**
+
+---
 ## 📌 Descrição
 
 Este projeto utiliza técnicas de visão computacional para analisar um vídeo de pênalti e calcular a velocidade da bola.
