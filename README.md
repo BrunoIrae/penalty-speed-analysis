@@ -38,28 +38,29 @@ O sistema realiza:
 ```bash
 git clone https://github.com/seu-usuario/penalty-speed-analysis.git
 cd penalty-speed-analysis
-```bash
+```
 
 ### 🐍 2. Criar ambiente virtual
-
+```bash
 python -m venv .venv
-
+```
 ### Ativar (Windows):
 ```bash
 .venv\Scripts\activate
-
+```
 ### 📥 3. Instalar dependências
 ```bash
 pip install -r requirements.txt
-
+```
 ### 🤖 4. YOLO (Importante)
 ```bash
 model = YOLO("yolov8s.pt")
-
+```
 ### 🎥 5. Adicionar o vídeo
 ```bash
 penalti.mp4
-
+```
 ### ▶️ 6. Executar
 ```bash
 python main.py
+```
