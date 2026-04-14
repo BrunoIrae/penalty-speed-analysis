@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+ultralytics
+numpy==1.26.4
+matplotlib
+pandas
